@@ -1,4 +1,3 @@
-# Play-Scalajs for video series
+# Web app with Scala Play framework
 
-This repository has the code for my video series using Play
-and Scala.js.
+This repository has the code written in Scala's Play framewwork and Scala.js.
